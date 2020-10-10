@@ -4,10 +4,12 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: "index.html"
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
     - text: "About Me"
+      href: "posts/about/index.html"
+    - text: "My GitHub"
       href: "https://github.com/NicolasNeels/Nicolas-Nicolas_blog.git"
     - icon: fab fa-github
       href: https://github.com/BioDataScience-Course/blog-template
