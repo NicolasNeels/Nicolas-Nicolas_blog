@@ -1,7 +1,7 @@
 ---
-title: "About Me"
+title: "More info's about the content creator"
 author:
-  - name: "___" 
+  - name: "Nicolas Neels" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,3 +9,11 @@ output: distill::distill_article
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year
+
+**Who am I?**
+My name is Nicolas Neels. I am currently studying biology at the UMons university.
+
+**Why did you make a blog?**
+This blog in a long-term project that will be evaluated by M. Grosjean, M Conotte or M. Engels, which are my teachers for the Data Science course, a second year course.
+
+It also will be used for the English course, led by Mrs Van Lancker. I will post articles that will answear all the report criteria of that course.
