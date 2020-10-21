@@ -9,10 +9,8 @@ navbar:
       href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
-    - text: "My GitHub"
-      href: "https://github.com/NicolasNeels/Nicolas-Nicolas_blog.git"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
+      href: "https://github.com/NicolasNeels/Nicolas-Nicolas_blog.git"
 base_url: NicolasNeels.github.io/Nicolas-Nicolas_blog/
 collections:
     posts:
