@@ -1,7 +1,7 @@
 ---
 title: "The first flying dinosaurs were a failed evolutionary experiment"
 description: |
-  A short description of the post.
+  Bat-like dinosaurs were discovered in China
 author:
   - name: Nicolas Neels
     url: {}
@@ -15,9 +15,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article:
 
+# test: <https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/>
+[link](www.wikipedia.com)
+test 2:
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Word count: 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
