@@ -1,8 +1,10 @@
 ---
-title: "More info's about the content creator"
+title: "More info's about Nicolas Neels"
+description: |
+  Who am I?
 author:
   - name: "Nicolas Neels" 
-date: "`r Sys.Date()`"
+date: "10-10-2020"
 output: distill::distill_article
 ---
 

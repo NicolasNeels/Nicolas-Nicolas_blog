@@ -15,13 +15,69 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
-Source of the article:
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+__Source of the article:__ <https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/>
 
-# test: <https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/>
-[link](www.wikipedia.com)
-test 2:
-
-Word count: 
+__Word count:__ 418
 
 
+__Source of the study:__ <https://www.cell.com/iscience/fulltext/S2589-0042(20)30766-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004220307665%3Fshowall%3Dtrue#secsectitle0020>
+
+
+## II - VOCABULARY
+
+| English      | Definition / Synonym                | French        |
+|--------------|-------------------------------------|---------------|
+| bats         | nocturnal flying mammal             | chauve-souris |
+| failed       | unsuccessful                        | raté          |
+| (to) fly     | move through the air                | voler         |
+| glider       | a person or thing that glides       | planeur       |
+| nocturnal    | active at night                     | nocturne      |
+| outcompeted  | got less successful than            | surpassé      |
+| partly       | not completely                      | partiellement |
+| pterosaur    | prehistoric flying reptile          | ptérosaure    |
+| rather than  | in preference to                    | plutôt que    |
+| several      | a few                               | plusieurs     |
+| shaped       | having shape of                     | en forme de   |
+| squeezed out | exclude, push out                   | écarté        |
+| wings        | organs of flight of certain animals | ailes         |
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+
+* **Researchers?**
+    + T. Alexander Dececchi
+    + Arindam Roy
+    + Michael Pittman
+    + Thomas G. Kaye
+    + Xing Xu
+    + Michael B. Habib
+    + Hans C.E. Larsson
+    + Xiaoli Wang
+    + Xiaoting Zheng
+
+* **Published in? when (if mentioned)?**
+    + October 22, 2020
+
+
+* **General topic**
+    + Dinosaurs
+
+* **Subjects Area**
+    + Paleontology
+    + Biological Sciences
+    + Evolutionary Biology
+    + Paleobiology
+
+* **Procedure/what was examined**
+    + Testing the flight potential of “membrane-winged” scansoriopterygian dinosaurs using laser-stimulated fluorescence imaging
+
+* **Conclusions/discovery**
+    + The studied dinosaurs (Scansoriopterygidae):
+        - were likely arboreal
+        - probably didn't have access to powered flight
+        - had limited gliding abilities
+        - are not models for the early evolution of bird flight
+        - had different wings compared to their contemporaneous paravians, which supports the thesis of multiple independent origins of flight
+
+* **Remaining questions**
+    + None
