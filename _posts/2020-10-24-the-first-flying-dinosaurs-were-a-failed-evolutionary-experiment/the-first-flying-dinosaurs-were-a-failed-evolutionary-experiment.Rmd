@@ -9,6 +9,7 @@ date: 10-24-2020
 categories:
   - "English for Science"
   - "Dinosaurs"
+  - "Paleontology"
 output:
   distill::distill_article:
     self_contained: false
