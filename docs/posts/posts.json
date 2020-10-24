@@ -10,9 +10,30 @@
       }
     ],
     "date": "2020-10-24",
-    "categories": [],
+    "categories": [
+      "English for Science",
+      "Dinosaurs"
+    ],
     "preview": {},
-    "last_modified": "2020-10-24T18:21:36+02:00"
+    "last_modified": "2020-10-24T19:13:17+02:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Nicolas Neels",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2020-10-24T19:13:48+02:00"
   },
   {
     "path": "posts/about/",
@@ -81,24 +102,6 @@
       "English for Science",
       "Paleontology",
       "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-08T12:26:39+02:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
     ],
     "preview": {},
     "last_modified": "2020-10-08T12:26:39+02:00"

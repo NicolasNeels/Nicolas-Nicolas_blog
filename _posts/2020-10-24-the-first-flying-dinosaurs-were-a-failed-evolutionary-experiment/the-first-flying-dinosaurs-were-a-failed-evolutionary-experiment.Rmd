@@ -6,6 +6,9 @@ author:
   - name: Nicolas Neels
     url: {}
 date: 10-24-2020
+categories:
+  - "English for Science"
+  - "Dinosaurs"
 output:
   distill::distill_article:
     self_contained: false
@@ -28,7 +31,7 @@ __Source of the study:__ <https://www.cell.com/iscience/fulltext/S2589-0042(20)3
 
 | English      | Definition / Synonym                | French        |
 |--------------|-------------------------------------|---------------|
-| bats         | nocturnal flying mammal             | chauve-souris |
+| bat          | nocturnal flying mammal             | chauve-souris |
 | failed       | unsuccessful                        | raté          |
 | (to) fly     | move through the air                | voler         |
 | glider       | a person or thing that glides       | planeur       |
