@@ -15,4 +15,4 @@ output: distill::distill_article
 
 - Oct. 24th : My very first article is finished and posted on my blog. I'm starting to feel comfortable with how RStudio works. This is always a good thing!
 
--Oct. 25th : My blog now has a green-blue theme. I like it a lot but i wonder if people would like it. Next week disqs should be online on my blog so you will be able to tell me if you guys like it or not. Please consider doing it when it will be possible so i can improve my very frist blog!
+- Oct. 25th : My blog now has a green-blue theme. I like it a lot but i wonder if people would like it. Next week disqs should be online on my blog so you will be able to tell me if you guys like it or not. Please consider doing it when it will be possible so i can improve my very first blog!
