@@ -1,9 +1,19 @@
 .distill-site-nav {
   color: #00E617;
-  background-color: #00E617;
+  background-color: #95FFFF;
+  font-family: Lucida Calligraphy;
   font-size: 15px;
   font-weight: 400;
 }
+
+body {
+  background-color: #B3FFFF;
+  }
+
+  h1 {
+  color: green;
+  font-family: Castellar;
+  }
 
 .distill-site-nav a {
   color: black;
@@ -12,17 +22,18 @@
 
 .distill-site-nav a:hover {
   color: black;
-    background-color: #4EFF60;
-
+  background-color: #4EFF60;
 }
 
 .distill-site-header {
   color: #4EFF60;
   background-color: #00E617;
+
 }
 
 .distill-site-footer {
   color: #4EFF60;
+    background-color: #00E617;
 }
 
 @media print {

@@ -7,12 +7,12 @@ author:
   - name: Nicolas Devilez
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
-date: "`r Sys.Date()`"
+date: "Oct. 1, 2020"
 categories:
   - "English for Science"
   - "Bacteria"
   - "Adaptation"
-preview: images/jpg120051fa.png
+preview: images/Antibiotics-removebg-preview.png
 #draft: TRUE
 bibliography: biblio/bacteria.bib
 output:
@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](images/jpg120051fa.png)
+![](images/Antibiotics-removebg-preview.png)
 
 This post is an analysis of Analysis of *More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut* [@UniversityofBirmingham]. 
 
