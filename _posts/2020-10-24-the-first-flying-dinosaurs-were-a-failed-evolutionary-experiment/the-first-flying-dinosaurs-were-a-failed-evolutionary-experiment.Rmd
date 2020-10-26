@@ -77,11 +77,11 @@ __Source of the study:__ <https://www.cell.com/iscience/fulltext/S2589-0042(20)3
 
 * **Conclusions/discovery**
     + The studied dinosaurs (Scansoriopterygidae):
-        - were likely arboreal
+        - were probably arboreal
         - probably didn't have access to powered flight
         - had limited gliding abilities
         - are not models for the early evolution of bird flight
-        - had different wings compared to their contemporaneous paravians, which supports the thesis of multiple independent origins of flight
+        - had different wings compared to their contemporaneous paravians, which supports the thesis of various independent origins of flight
 
 * **Remaining questions**
     + None
