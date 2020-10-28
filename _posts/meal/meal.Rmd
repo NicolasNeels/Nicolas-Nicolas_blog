@@ -16,3 +16,5 @@ output: distill::distill_article
 - Oct. 24th : My very first article is finished and posted on my blog. I'm starting to feel comfortable with how RStudio works. This is always a good thing!
 
 - Oct. 25th : My blog now has a new character font and design. I wanted to change the background color with a blue-ish white but it made it look sad so I didn't do it.
+
+- Oct. 28 : disqus is finally running on my blog! Feel free to comment whatever you would like. It could be a constructive advice, a funny line or simply saying hi ;-)

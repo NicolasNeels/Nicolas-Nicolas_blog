@@ -1,5 +1,5 @@
 ---
-title: "The first flying dinosaurs were a failed evolutionary experiment"
+title: "Article 1 - The first flying dinosaurs were a failed evolutionary experiment"
 description: |
   Bat-like dinosaurs were discovered in China
 author:
