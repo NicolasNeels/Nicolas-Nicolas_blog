@@ -15,7 +15,7 @@ base_url: NicolasNeels.github.io/Nicolas-Nicolas_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: nicolasneelss-blog
 output:
   distill::distill_article:
     css: style.css
