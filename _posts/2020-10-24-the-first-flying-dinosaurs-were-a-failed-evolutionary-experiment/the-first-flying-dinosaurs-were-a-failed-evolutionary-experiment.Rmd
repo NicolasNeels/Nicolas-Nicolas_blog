@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
-__Source of the article:__ <https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/>
+__Source of the article:__ [(Michael Le Page, 2020)](https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/)
 
 __Word count:__ 418
 
 
-__Source of the study:__ <https://www.cell.com/iscience/fulltext/S2589-0042(20)30766-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004220307665%3Fshowall%3Dtrue#secsectitle0020>
+__Source of the study:__ [(T. Alexander Dececchi *et al.*, 2020)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30766-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004220307665%3Fshowall%3Dtrue#secsectitle0020)
 
 
 ## II - VOCABULARY
