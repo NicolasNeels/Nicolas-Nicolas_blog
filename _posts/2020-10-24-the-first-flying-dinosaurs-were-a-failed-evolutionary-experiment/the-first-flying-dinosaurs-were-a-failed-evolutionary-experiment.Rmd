@@ -1,5 +1,5 @@
 ---
-title: "Article 1 - The first flying dinosaurs were a failed evolutionary experiment"
+title: "Article 1 - \"The first flying dinosaurs were a failed evolutionary experiment\""
 description: |
   Bat-like dinosaurs were discovered in China
 author:
@@ -46,6 +46,8 @@ __Source of the study:__ [(T. Alexander Dececchi *et al.*, 2020)](https://www.ce
 | squeezed out | exclude, push out                   | écarté        |
 | wings        | organs of flight of certain animals | ailes         |
 
+*Note: these translations were mainly possible thanks to Wordreference*
+
 ## III - ANALYSIS TABLE ABOUT THE STUDY
 
 * **Researchers?**
@@ -59,7 +61,7 @@ __Source of the study:__ [(T. Alexander Dececchi *et al.*, 2020)](https://www.ce
     + Xiaoli Wang
     + Xiaoting Zheng
 
-* **Published in? when (if mentioned)?**
+* **Published in?**
     + October 22, 2020
 
 

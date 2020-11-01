@@ -18,3 +18,5 @@ output: distill::distill_article
 - Oct. 25th : My blog now has a new character font and design. I wanted to change the background color with a blue-ish white but it made it look sad so I didn't do it.
 
 - Oct. 28 : disqus is finally running on my blog! Feel free to comment whatever you would like. It could be a constructive advice, a funny line or simply saying hi ;-)
+
+-Nov. 1 : The second article is now online; if you like sauropods, you should definitely check it ^^
