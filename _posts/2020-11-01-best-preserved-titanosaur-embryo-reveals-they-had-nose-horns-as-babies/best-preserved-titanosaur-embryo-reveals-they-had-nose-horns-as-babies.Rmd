@@ -21,6 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ![](images/Sauropod.png)
+[Source of the image](https://pixabay.com/fr/vectors/silhouette-dinosaure-brachiosaurus-3464840/)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 __Source of the article:__ [(Michael Marshall, 2020)](https://www.newscientist.com/article/2253205-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/)
