@@ -10,7 +10,7 @@ categories:
   - "English for Science"
   - "Dinosaurs"
   - "Paleontology"
-  preview: images/Sauropod.png
+preview: images/Sauropod.png
 output:
   distill::distill_article:
     self_contained: false
