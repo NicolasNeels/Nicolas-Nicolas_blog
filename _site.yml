@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Nicolas Neels's Blog"
+title: "Dino Blog"
 favicon: fab fa-github
 output_dir: "docs"
 navbar:

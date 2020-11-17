@@ -17,11 +17,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-###Disclaimer
-I initially planned to make this article for the Data Science I course, but I went a bit too fast and didn't pay enough attention to the instructions. This is why, if you are one of my teachers, I'll ask you to not count this article for the projet of the end of the fourth module. Thank you and I hope you will enjoy reading this article! CAUTION: This article is a work in progress!
 
-###Article
-Wether you like dinosaurs or not, it is nearly impossible to ignore that there are films called "*Jurassic Park*. But the name of the film could have been better chosen because it features a lot of dinosaurs that aren't from the Jurassic period at all. Let's see which ones are correct and which ones are wrong!
+
+## Disclaimer
+I initially planned to make this article for the Data Science I course, but I went a bit too fast and didn't pay enough attention to the instructions. This is why, if you are one of my teachers, I'll ask you to not count this article for the projet of the end of the fourth module. Thank you and I hope you will enjoy reading this article!
+
+## Article
+Wether you like dinosaurs or not, it is nearly impossible to ignore that there are films called "*Jurassic Park*. But the name of the film could have been better chosen because it features a lot of dinosaurs that aren't from the Jurassic period at all. Let's see which ones are correct and which ones are wrong! (I am considering here the dinosaurs that appear in the Jurassic Park films and Jurassic World)
 
 But first, let's get a closer look at the "Dinosaurs era", scientifically known as **"Mesozoic Era"**. It is a geological era that lasted from 252 million years ago up to 66 million years ago. It is **divided in 3 geological periods**:
 
@@ -41,30 +43,41 @@ But first, let's get a closer look at the "Dinosaurs era", scientifically known 
     
 Now that we have all this knowledge, it is time to put the dinosaurs that appear in "Jurassic Park" at the right place in the timeline:
     
-```{r DataImput}
-
-MesozoicDinosaurs
-```
-
-```{r Graphic}
+    
+```{r Data}
 library(collapsibleTree)
 
-Triassic <- c("DinosaursT")
-Jurassic <- c("DinosaursJ")
-Cretaceous <- c("DinosaursC")
-Periods <- c(Triassic, Jurassic, Cretaceous)
-MesozoicEra <- c(Periods)
+Mesozoic <- data.frame(
   
-head(MesozoicEra)
-
-p <- collapsibleTree( MesozoicEra, c("Periods","Dinosaurs"))
+  Period = c("Triassic", "Jurassic", "Jurassic", "Jurassic", "Jurassic", "Jurassic", "Jurassic", "Jurassic", "Jurassic", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous", "Cretaceous"),
+  
+  Genus = c("Procompsognathus", "Allosaurus", "Apatosaurus", "Brachiosaurus", "Ceratosaurus", "Compsognathus", "Dilophosaurus", "Mamenchisaurus", "Stegosaurus", "Ankylosaurus", "Baryonyx", "Carnotaurus", "Corythosaurus", "Gallimimus", "Pachycephalosaurus", "Parasaurolophus", "Sinoceratops", "Spinosaurus", "Triceratops", "Tyrannosaurus", "Velocyraptor"),
+  
+  stringsAsFactors = FALSE
+)
 ```
-###Bibliography
-https://en.wikipedia.org/wiki/Dinosaur
-https://en.wikipedia.org/wiki/Triassic
-https://en.wikipedia.org/wiki/Triassic%E2%80%93Jurassic_extinction_event
-https://en.wikipedia.org/wiki/Jurassic
-https://en.wikipedia.org/wiki/Cretaceous
-https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event
-https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor
-https://www.youtube.com/watch?v=rZc9kgEIjKU
+
+
+```{r DataInTree}
+
+Arbre <- collapsibleTree( Mesozoic, c("Period","Genus"))
+Arbre
+```
+Seeing this tree, you may wonder why you can't find some animals like dimorphodon, pteranodon or mosasaurus. In fact, those are not dinosaurs. Dimorphodon and pteranodon are pterosaurs and mosasaurus is a squamata. Basically, they looked like dinosaurs and lived at the same time as dinosaurs but were not dinosaurs at all!
+
+## Bibliography
+[Wikipedia, Dinosaurs](https://en.wikipedia.org/wiki/Dinosaur)
+
+[Wikipedia, Triassic](https://en.wikipedia.org/wiki/Triassic)
+
+[Wikipedia, Triassic extinction](https://en.wikipedia.org/wiki/Triassic%E2%80%93Jurassic_extinction_event)
+
+[Wikipedia, Jurassic](https://en.wikipedia.org/wiki/Jurassic)
+
+[Wikipedia, Cretaceous](https://en.wikipedia.org/wiki/Cretaceous)
+
+[Wikipedia, Cretaceous extinction](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
+
+[Wikipedia, Common ancestor human and chimpanzee](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor)
+
+[Youtube, "Every Dinosaur in the Jurassic Park Series (including FALLEN KINGDOM)", from the channel "Everything Jurassic Park"](https://www.youtube.com/watch?v=rZc9kgEIjKU)
