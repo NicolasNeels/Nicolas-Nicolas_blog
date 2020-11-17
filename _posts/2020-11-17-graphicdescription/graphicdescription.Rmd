@@ -1,0 +1,33 @@
+---
+title: "Graphic Description"
+description: |
+  A description of a graphic, in order to fulfill the "Data Science I" course instructions
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 11-17-2020
+categories:
+  - "Data Science I"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
+urchin <- data.io::read("urchin_bio", package = "data.io")
+```
+
+
+The following graphic is about a dataset made by Professor Philippe Grosjean about **Paracentrotus lividus Lamarck (1816)**, better known as the "purple sea urchin". This animal lives in the Mediterranean sea and is known to have sharp spines all over its body.
+
+
+```{r GrapheOrigin}
+chart(urchin, spines ~ origin %fill=% origin) +
+  geom_violin(show.legend = FALSE, na.rm = TRUE)
+```
+
+This graph shows that wild sea urchins are numerous to have a weight of spines that is pretty low and that the amount of them decreases relatively linearly until slightly above 10 grams. The urchins that come from a farm, on the other hand, are also numerous to have a low weight of spines but it becomes rare to have farm urchins that have a weight of spine that exceeds 5 grams. It is worth noting that some individuals can go up to about 13 grams (in terms of weight of their spines).
+
+The conclusion to this graph is that something affects either the amount or the quality of spines that farm urchin have. Further research is needed to determine what the source of this phenomenon is.

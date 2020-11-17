@@ -1,0 +1,70 @@
+---
+title: "Bonus Article - A lot of   \"Jurassic Park \" dinosaurs actually were not from the Jurassic period"
+description:
+  A graphical article for the Datascience course
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 11-16-2020
+categories:
+  - "Data Science I"
+  - "Dinosaurs"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+###Disclaimer
+I initially planned to make this article for the Data Science I course, but I went a bit too fast and didn't pay enough attention to the instructions. This is why, if you are one of my teachers, I'll ask you to not count this article for the projet of the end of the fourth module. Thank you and I hope you will enjoy reading this article! CAUTION: This article is a work in progress!
+
+###Article
+Wether you like dinosaurs or not, it is nearly impossible to ignore that there are films called "*Jurassic Park*. But the name of the film could have been better chosen because it features a lot of dinosaurs that aren't from the Jurassic period at all. Let's see which ones are correct and which ones are wrong!
+
+But first, let's get a closer look at the "Dinosaurs era", scientifically known as **"Mesozoic Era"**. It is a geological era that lasted from 252 million years ago up to 66 million years ago. It is **divided in 3 geological periods**:
+
+* **The Triassic** (-252 million years to -201 million years)
+    - The fist dinosaurs appeared at around 240 million years ago. Most dinosaurs of this era were not as evolved as you may imagine since they had been evolving for maximum 40 million years, which isn't that much on an evolutionnary scale. (For example, our common ancestor with chimpanzees lived 13 million years ago)
+    - The earth had only one supercontinent : **Pangaea**
+    - In the end of the triassic, a massive extinction took place, known as the : "**Triassic-Jurassic extinction event**". Dinosaurs survived this mass-extinction and became dominant, starting the Jurassic period.
+    
+* **The Jurassic** (-201 million years to -145 million years)
+    - The Pangaea started separating itself in 2 continents : **Laurasia** and **Gondwana**, changing radically it's biomes and allowing dinosaurs to thrive.
+    - Dinosaurs could evolve fast due to those changes, allowing the first birds to appear (which evolved from dinosaurs!)
+    - It is also in this period that mammals appeared (but it is off-subject since they didn't evolve from dinosaurs)
+
+* **The Cretaceous** (-145 million years to -66 million years)
+    - It was the longest period of the Mesozoic Era, allowing dinosaurs to develop impressing sizes and remarkable traits (not that dinosaurs of the previous periods were unimpressive, don't get me wrong!)
+    - It ended with the "**Cretaceous–Paleogene extinction event**". Scientists believe it was caused by the fall of a gigantic asteroid in the Yucatán Peninsula (although it is still discussed nowadays and is probably a more complex question), resulting in the extinction of a lot of organisms, including dinosaurs.
+    
+Now that we have all this knowledge, it is time to put the dinosaurs that appear in "Jurassic Park" at the right place in the timeline:
+    
+```{r DataImput}
+
+MesozoicDinosaurs
+```
+
+```{r Graphic}
+library(collapsibleTree)
+
+Triassic <- c("DinosaursT")
+Jurassic <- c("DinosaursJ")
+Cretaceous <- c("DinosaursC")
+Periods <- c(Triassic, Jurassic, Cretaceous)
+MesozoicEra <- c(Periods)
+  
+head(MesozoicEra)
+
+p <- collapsibleTree( MesozoicEra, c("Periods","Dinosaurs"))
+```
+###Bibliography
+https://en.wikipedia.org/wiki/Dinosaur
+https://en.wikipedia.org/wiki/Triassic
+https://en.wikipedia.org/wiki/Triassic%E2%80%93Jurassic_extinction_event
+https://en.wikipedia.org/wiki/Jurassic
+https://en.wikipedia.org/wiki/Cretaceous
+https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event
+https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor
+https://www.youtube.com/watch?v=rZc9kgEIjKU
