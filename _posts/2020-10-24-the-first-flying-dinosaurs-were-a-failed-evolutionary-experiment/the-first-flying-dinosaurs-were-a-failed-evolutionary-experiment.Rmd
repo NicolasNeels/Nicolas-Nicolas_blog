@@ -10,6 +10,7 @@ categories:
   - "English for Science"
   - "Dinosaurs"
   - "Paleontology"
+preview: images/Yi_qi_restoration.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,6 +19,11 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](images/Yi_qi_restoration.jpg)
+Artist representation of Yi Qi, a scansoriopterygian dinosaur, by Emily Willoughby  
+License: Emily Willoughby, (e.deinonychus@gmail.com, [emilywilloughby.com](emilywilloughby.com)), CC BY-SA 4.0, via Wikimedia Commons  
+Link to the [image](https://commons.wikimedia.org/wiki/File:Yi_qi_restoration.jpg?uselang=fr) 
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 __Source of the article:__ [(Michael Le Page, 2020)](https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/)
