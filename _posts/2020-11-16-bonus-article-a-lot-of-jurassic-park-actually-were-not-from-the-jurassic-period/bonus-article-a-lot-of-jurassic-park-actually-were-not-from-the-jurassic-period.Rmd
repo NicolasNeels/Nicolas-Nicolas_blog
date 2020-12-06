@@ -1,5 +1,5 @@
 ---
-title: "Bonus Article - A lot of   \"Jurassic Park \" dinosaurs actually were not from the Jurassic period"
+title: "Bonus Article - A lot of   \"Jurassic Park\" dinosaurs actually were not from the Jurassic period"
 description:
   A graphical article for the Datascience course, using an interactive dendrogram
 author:
