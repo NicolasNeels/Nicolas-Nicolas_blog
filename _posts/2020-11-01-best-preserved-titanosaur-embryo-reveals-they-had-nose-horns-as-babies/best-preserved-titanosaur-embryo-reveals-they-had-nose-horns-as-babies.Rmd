@@ -10,7 +10,7 @@ categories:
   - "English for Science"
   - "Dinosaurs"
   - "Paleontology"
-preview: imagesL/Sauropod1.jpg
+preview: images/Sauropod1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -20,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](imagesL/Sauropod1.jpg)
+![](images/Sauropod1.jpg)
 [Source of the image](https://pixabay.com/fr/vectors/silhouette-dinosaure-brachiosaurus-3464840/)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
