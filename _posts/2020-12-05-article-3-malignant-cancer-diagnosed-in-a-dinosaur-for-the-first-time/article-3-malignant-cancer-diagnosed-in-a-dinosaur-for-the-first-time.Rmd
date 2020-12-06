@@ -20,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/Centrosaurus.jpg)
-By Nobu Tamura (http://spinops.blogspot.com) — Personal work, CC BY 3.0, <https://commons.wikimedia.org/w/index.php?curid=19459817>
+Artist vision of a Centrosaurus, by Nobu Tamura (http://spinops.blogspot.com) — Personal work, CC BY 3.0   [Source](https://commons.wikimedia.org/w/index.php?curid=19459817)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 __Source of the article:__ [Royal Ontario Museum. "Malignant cancer diagnosed in a dinosaur for the first time." ScienceDaily. ScienceDaily, 3 August 2020](https://www.sciencedaily.com/releases/2020/08/200803184149.htm)
