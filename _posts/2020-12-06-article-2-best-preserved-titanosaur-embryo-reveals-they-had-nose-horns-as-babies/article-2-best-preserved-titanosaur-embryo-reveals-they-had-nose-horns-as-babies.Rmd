@@ -19,7 +19,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Test4
 ![](images/Sauropod.png)
 [Source of the image](https://pixabay.com/fr/vectors/silhouette-dinosaure-brachiosaurus-3464840/)
 
