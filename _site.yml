@@ -1,6 +1,6 @@
 name: "blog-template"
 title: "Dino Blog"
-favicon: images/Logo DinoBlog
+favicon: images/LogoDinoBlog
 output_dir: "docs"
 navbar:
   right:
