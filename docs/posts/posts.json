@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-12-05-article-3-malignant-cancer-diagnosed-in-a-dinosaur-for-the-first-time/",
+    "title": "Article 3 - \"Malignant cancer diagnosed in a dinosaur for the first time\"",
+    "description": "Evidence of an advanced osteosarcoma in a Centrosaurus apertus",
+    "author": [
+      {
+        "name": "Nicolas Neels",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-05",
+    "categories": [
+      "English for Science",
+      "Dinosaurs",
+      "Paleontology"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-06T11:39:08+01:00"
+  },
+  {
     "path": "posts/2020-11-17-graphicdescription/",
     "title": "Graphic Description",
     "description": "A description of a graphic, in order to fulfill the \"Data Science I\" course instructions",
@@ -52,10 +71,8 @@
       "Dinosaurs",
       "Paleontology"
     ],
-    "preview": "posts/2020-11-01-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/images/Sauropod.png",
-    "last_modified": "2020-12-04T14:07:06+01:00",
-    "preview_width": 1280,
-    "preview_height": 852
+    "preview": "posts/2020-11-01-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/images/Sauropod1.jpg",
+    "last_modified": "2020-12-05T11:08:31+01:00"
   },
   {
     "path": "posts/meal/",
