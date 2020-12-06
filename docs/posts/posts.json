@@ -40,7 +40,7 @@
   {
     "path": "posts/2020-11-16-bonus-article-a-lot-of-jurassic-park-actually-were-not-from-the-jurassic-period/",
     "title": "Bonus Article - A lot of   \"Jurassic Park \" dinosaurs actually were not from the Jurassic period",
-    "description": "A graphical article for the Datascience course",
+    "description": "A graphical article for the Datascience course, using an interactive dendrogram",
     "author": [
       {
         "name": "Nicolas Neels",
@@ -53,7 +53,7 @@
       "Dinosaurs"
     ],
     "preview": {},
-    "last_modified": "2020-12-06T15:01:04+01:00"
+    "last_modified": "2020-12-06T15:06:53+01:00"
   },
   {
     "path": "posts/2020-11-01-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/",
@@ -93,6 +93,27 @@
     ],
     "preview": {},
     "last_modified": "2020-11-01T14:31:01+01:00"
+  },
+  {
+    "path": "posts/2020-12-06-article-2-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/",
+    "title": "Article 2 - \"Best-preserved titanosaur embryo reveals they had nose horns as babies\"",
+    "description": "Young titanosaurs looked very different from their parents",
+    "author": [
+      {
+        "name": "Nicolas Neels",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-01",
+    "categories": [
+      "English for Science",
+      "Dinosaurs",
+      "Paleontology"
+    ],
+    "preview": "posts/2020-12-06-article-2-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies/images/Sauropod.png",
+    "last_modified": "2020-12-06T15:13:56+01:00",
+    "preview_width": 1280,
+    "preview_height": 852
   },
   {
     "path": "posts/2020-10-24-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment/",
