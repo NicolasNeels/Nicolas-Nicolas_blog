@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/Yi_qi_restoration.jpg)
 Artist representation of Yi Qi, a scansoriopterygian dinosaur, by Emily Willoughby  
-License: Emily Willoughby, (e.deinonychus@gmail.com, [emilywilloughby.com](emilywilloughby.com)), CC BY-SA 4.0, via Wikimedia Commons  
+License: Emily Willoughby, (e.deinonychus@gmail.com, [emilywilloughby.com](https://emilywilloughby.com)), CC BY-SA 4.0, via Wikimedia Commons  
 Link to the [image](https://commons.wikimedia.org/wiki/File:Yi_qi_restoration.jpg?uselang=fr) 
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:

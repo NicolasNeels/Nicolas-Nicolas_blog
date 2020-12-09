@@ -19,4 +19,6 @@ output: distill::distill_article
 
 - Oct. 28 : disqus is finally running on my blog! Feel free to comment whatever you would like. It could be a constructive advice, a funny line or simply saying hi ;-)
 
--Nov. 1 : The second article is now online; if you like sauropods, you should definitely check it ^^
+- Nov. 1 : The second article is now online; if you like sauropods, you should definitely check it out ^^
+
+- Nov. 16 : I just made an article with an interactive dendrogram about Jurassic Park dinosaurs. I spent a lot of time reading informations and watching videos that talked about it so feel free to give me some feedback!

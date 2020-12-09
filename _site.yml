@@ -1,6 +1,6 @@
 name: "blog-template"
 title: "Dino Blog"
-favicon: images/LogoDinoBlog
+favicon: fab fa-github
 output_dir: "docs"
 navbar:
   right:

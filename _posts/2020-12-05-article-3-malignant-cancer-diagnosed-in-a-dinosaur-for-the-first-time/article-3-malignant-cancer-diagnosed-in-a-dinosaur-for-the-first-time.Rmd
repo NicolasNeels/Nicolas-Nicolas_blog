@@ -87,7 +87,7 @@ __Source of the study:__ [(Seper Ekhtiari *et al.*, 2020)](https://www.sciencedi
         - a careful rejection of other diagnoses
 
 * **Conclusions/discovery**
-    + The fibula is the first confirmed case of osteosarcoma in a dinosaur in the history of paleontology
+    + The fibula contains the first confirmed case of dinosaur osteosarcoma in the history of paleontology
 
 * **Remaining questions**
     + None
