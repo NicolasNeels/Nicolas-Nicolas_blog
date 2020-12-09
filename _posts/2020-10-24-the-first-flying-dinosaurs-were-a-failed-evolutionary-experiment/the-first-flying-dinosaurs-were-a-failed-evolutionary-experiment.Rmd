@@ -7,8 +7,8 @@ author:
     url: {}
 date: 10-24-2020
 categories:
-  - "English for Science"
   - "Dinosaurs"
+  - "English for Science"
   - "Paleontology"
 preview: images/Yi_qi_restoration.jpg
 output:
@@ -72,13 +72,7 @@ __Source of the study:__ [(T. Alexander Dececchi *et al.*, 2020)](https://www.ce
 
 
 * **General topic**
-    + Dinosaurs
-
-* **Subjects Area**
-    + Paleontology
-    + Biological Sciences
-    + Evolutionary Biology
-    + Paleobiology
+    + Flight abilities of scansoriopterygidae
 
 * **Procedure/what was examined**
     + Testing the flight potential of “membrane-winged” scansoriopterygian dinosaurs using laser-stimulated fluorescence imaging

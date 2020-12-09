@@ -7,8 +7,9 @@ author:
     url: {}
 date: 12-05-2020
 categories:
-  - "English for Science"
   - "Dinosaurs"
+  - "English for Science"
+  - "Osteology"
   - "Paleontology"
 preview: images/Centrosaurus.jpg
 output:
@@ -74,9 +75,7 @@ __Source of the study:__ [(Seper Ekhtiari *et al.*, 2020)](https://www.sciencedi
     + August 3, 2020
     
 * **General topic**
-    + Dinosaurs
-    + Paleontology
-    + Osteopathology
+    + bone illness of a *Centrosaurus apertus*
 
 * **Procedure/what was examined**
     + Analysis of a damaged fibula of a *Centrosaurus apertus*, using:

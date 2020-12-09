@@ -1,0 +1,82 @@
+---
+title: "Article 4 - \"The Fossil of a Duckbill Dinosaur Has Been Found on The 'Wrong' Continent\""
+description: |
+  A species of Hadrosaur swam to another continent
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 12-09-2020
+categories:
+  - "Dinosaurs"
+  - "English for Science"
+  - "Paleontology"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+__Source of the article:__ [(MIKE MCRAE, 2020)](https://www.sciencealert.com/pony-sized-duckbill-dinosaur-fossil-found-in-the-last-place-anybody-would-suspect)
+
+__Word count:__ 607
+
+
+__Source of the study:__ [(Nicholas R.Longrich *et al.*, 2020)](https://doi.org/10.1016/j.cretres.2020.104678)
+
+
+## II - VOCABULARY
+
+| English              | Definition / Synonym                | French                     |
+|----------------------|-------------------------------------|----------------------------|
+| amount               | quantity                            | quantité                   |
+| assemblage           | collection                          | collection                 |
+| browser              | animal that eats vegetation         | qui se nourrit en paissant |
+| crested              | with tuft of feathers               | huppé                      |
+| duck-billed          | with a bill like a duck's           | à bec de canard            |
+| far-fetched          | implausible                         | tiré par les cheveux       |
+| lumbering            | walking heavily, clumsily           | au pas lourd               |
+| (to) mingle          | (to) mix, (to) blend                | se mêler à                 |
+| (to give [sb]) pause | make [sb] stop / think              | donner à réfléchir         |
+| petite               | small-sized                         | de petite taille           |
+| raft                 | floating (often wooden) platform    | radeau                     |
+| tale                 | story                               | récit                      |
+| (to) wander          | (to) roam                           | errer, vagabonder          |
+
+*Note: these translations were mainly possible thanks to Wordreference*
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+
+* **Researchers?**
+    + Nicholas R.Longrich
+    + Xabier Pereda Suberbiola
+    + R. Alexander Pyron
+    + Nour-Eddine Jalil
+
+
+* **Published in?**
+    + November 2, 2020
+
+
+* **General topic**
+    + Unusual presence of a hadrosaur species on a continent
+            - Hadrosaurs are known to have lived on Laurasia, but the fossil was found in North Africa, which was a part of Gondwana
+
+* **Procedure/what was examined**
+    + The fossil remains of *Ajnabia odysseus*, a hadrosaur species (MHNM.KHG.222)
+    + Determining the species, using:
+        - Multi-step phylogenetic analysis
+        - Biogeographic analysis
+        - Systematic paleontology
+    
+* **Conclusions/discovery**
+    + *Ajnabia odysseus* is part of Arenysaurini, which is a group of European lambeosaurines, which is a group of Hadrosauridae (hadrosaurs)
+    + It is highly probable that the ancestors of *Ajnabia odysseus* crossed the sea, either by swimming, drifting or rafting, to end up in Gondwana
+    + Oceanic dispersal during the Cretaceous was probably more likely to happen than what we previously thought
+
+* **Remaining questions**
+    + None
+
