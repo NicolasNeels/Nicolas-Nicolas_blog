@@ -21,4 +21,4 @@ output: distill::distill_article
 
 - Nov. 1 : The second article is now online; if you like sauropods, you should definitely check it out ^^
 
-- Nov. 16 : I just made an article with an interactive dendrogram about Jurassic Park dinosaurs. I spent a lot of time reading informations and watching videos that talked about it so feel free to give me some feedback!
+- Nov. 16 : I just made an article with an interactive dendrogram about Jurassic Park dinosaurs. I spent a lot of time reading for information and watching videos that talked about it so feel free to give me some feedback!
