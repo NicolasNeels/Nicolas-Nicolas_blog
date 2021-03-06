@@ -3,6 +3,7 @@ title: "Dino Blog"
 favicon: fab fa-github
 output_dir: "docs"
 navbar:
+  logo: images/LogoDinoBlog.png
   right:
     - text: "Home"
       href: "index.html"
