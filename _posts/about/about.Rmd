@@ -16,5 +16,3 @@ My name is Nicolas Neels. I am currently studying biology at the UMons universit
 This blog in a long-term project that will be evaluated by M. Grosjean, M Conotte or M. Engels, which are my teachers for the Data Science course, a second year course.
 
 It also will be used for the English course, led by Mrs Van Lancker. I will post articles that will answear all the report criteria of that course.
-
-**Please note that anything before 10 octobre 2020 was not written by me**

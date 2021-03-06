@@ -7,6 +7,8 @@ author:
     url: {}
 date: 11-16-2020
 categories:
+  - "All"
+  - "Bonus"
   - "Data Science I"
   - "Dinosaurs"
 output:

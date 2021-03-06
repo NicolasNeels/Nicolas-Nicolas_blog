@@ -7,6 +7,7 @@ author:
     url: {}
 date: 10-24-2020
 categories:
+  - "All"
   - "Dinosaurs"
   - "English for Science"
   - "Paleontology"

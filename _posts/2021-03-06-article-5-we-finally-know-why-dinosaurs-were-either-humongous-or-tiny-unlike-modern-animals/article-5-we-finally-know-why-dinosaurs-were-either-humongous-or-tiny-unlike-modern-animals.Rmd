@@ -1,5 +1,5 @@
 ---
-title: "Article 5 - \"We Finally Know Why Dinosaurs Were Either Humongous or Tiny, Unlike Modern Animals\""
+title: "Article 5 - \"We finally know why dinosaurs were either humongous or tiny, unlike modern animals\""
 description: |
   The supposed reason why there were so little medium-sized carnivorous dinosaurs
 author:
@@ -7,10 +7,11 @@ author:
     url: {}
 date: 03-06-2021
 categories:
+  - "All"
   - "Dinosaurs"
   - "English for Science"
   - "Paleontology"
-  preview: Images/Megatheropod.jpg
+preview: Images/Megatheropod.jpg
 output:
   distill::distill_article:
     self_contained: false

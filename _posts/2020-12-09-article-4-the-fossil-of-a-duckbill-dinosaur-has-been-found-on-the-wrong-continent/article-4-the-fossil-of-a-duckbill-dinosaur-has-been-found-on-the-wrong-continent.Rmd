@@ -1,5 +1,5 @@
 ---
-title: "Article 4 - \"The Fossil of a Duckbill Dinosaur Has Been Found on The 'Wrong' Continent\""
+title: "Article 4 - \"The fossil of a duckbill dinosaur has been found on the 'wrong' continent\""
 description: |
   A species of Hadrosaur swam to another continent
 author:
@@ -7,6 +7,7 @@ author:
     url: {}
 date: 12-09-2020
 categories:
+  - "All"
   - "Dinosaurs"
   - "English for Science"
   - "Paleontology"
