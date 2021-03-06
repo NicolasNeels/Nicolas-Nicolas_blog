@@ -4,7 +4,9 @@ description: |
   Who am I?
 author:
   - name: "Nicolas Neels" 
-date: "10-10-2020"
+date: 10-10-2020
+categories:
+  - "*All*"
 output: distill::distill_article
 ---
 

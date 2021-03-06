@@ -4,6 +4,7 @@ author:
   - name: "Nicolas Neels" 
 date: "`r Sys.Date()`"
 categories:
+  - "*All*"
   - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article

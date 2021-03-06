@@ -7,7 +7,7 @@ author:
     url: {}
 date: 11-16-2020
 categories:
-  - "All"
+  - "*All*"
   - "Bonus"
   - "Data Science I"
   - "Dinosaurs"
@@ -65,7 +65,7 @@ Mesozoic <- data.frame(
 Arbre <- collapsibleTree( Mesozoic, c("Period","Genus"))
 Arbre
 ```
-Seeing this tree, you may wonder why you can't find some animals like dimorphodon, pteranodon or mosasaurus. In fact, those are not dinosaurs. Dimorphodon and pteranodon are pterosaurs and mosasaurus is a squamata. Basically, they looked like dinosaurs and lived at the same time as dinosaurs but were not dinosaurs at all!
+Seeing this tree (try clicking on the knots!), you may wonder why you can't find some animals like dimorphodon, pteranodon or mosasaurus. In fact, those are not dinosaurs. Dimorphodon and pteranodon are pterosaurs and mosasaurus is a squamata. Basically, they looked like dinosaurs and lived at the same time as dinosaurs but were not dinosaurs at all!
 
 ## Bibliography
 [Wikipedia, Dinosaurs](https://en.wikipedia.org/wiki/Dinosaur)

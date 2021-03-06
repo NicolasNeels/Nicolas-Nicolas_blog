@@ -7,7 +7,8 @@ author:
     url: {}
 date: 03-06-2021
 categories:
-  - "All"
+  - "*All*"
+  - "Articles"
   - "Dinosaurs"
   - "English for Science"
   - "Paleontology"
