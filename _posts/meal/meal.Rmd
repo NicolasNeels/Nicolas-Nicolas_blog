@@ -17,8 +17,12 @@ output: distill::distill_article
 
 - Oct. 25th : My blog now has a new character font and design. I wanted to change the background color with a blue-ish white but it made it look sad so I didn't do it.
 
-- Oct. 28 : disqus is finally running on my blog! Feel free to comment whatever you would like. It could be a constructive advice, a funny line or simply saying hi ;-)
+- Oct. 28th : disqus is finally running on my blog! Feel free to comment whatever you would like. It could be a constructive advice, a funny line or simply saying hi ;-)
 
-- Nov. 1 : The second article is now online; if you like sauropods, you should definitely check it out ^^
+- Nov. 1st : The second article is now online; if you like sauropods, you should definitely check it out ^^
 
-- Nov. 16 : I just made an article with an interactive dendrogram about Jurassic Park dinosaurs. I spent a lot of time reading for information and watching videos that talked about it so feel free to give me some feedback!
+- Nov. 16th : I just made an article with an interactive dendrogram about Jurassic Park dinosaurs. I spent a lot of time searching for information so feel free to give me some feedback!
+
+- Febr. 24th : I have finally seen the South Park movie. It truly was outstanding! I am quite a fan of this series because it is about societal problems and treats and describes them with humor, through the eyes of children. I have watched all episodes so far (in original version; i don't like the French voices) and have just finished viewing the film. Honestly, if you are not afraid of bad language, I warmly recommend you this series!
+
+- March. 6th : Hello everyone! I'm back for new articles! I had to pause it due to a substantial load of work but I am ready to spoon-feed you with Dino-facts again! By the way, the article 5 is already online!
