@@ -7,7 +7,7 @@ author:
     url: {}
 date: 03-06-2021
 categories:
-  - "*All*"
+  - "~All~"
   - "Articles"
   - "Dinosaurs"
   - "English for Science"
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](Images/Megatheropod.jpg)
 
-Image by <a href="https://pixabay.com/users/willgard-4665627/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5687815">Willgard Krause</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5687815">Pixabay</a> ([Link to the image](https://pixabay.com/illustrations/dinosaurs-t-rex-pterodactyl-5687815/))
+Artist vision of a megatheropod (here, a Tyrannosaur) by <a href="https://pixabay.com/users/willgard-4665627/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5687815">Willgard Krause</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5687815">Pixabay</a> ([Link to the image](https://pixabay.com/illustrations/dinosaurs-t-rex-pterodactyl-5687815/))
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 __Source of the article:__ [(ISSAM AHMED, 2021)](https://www.sciencealert.com/teenage-t-rex-edged-out-smaller-dinosaur-species-says-study)

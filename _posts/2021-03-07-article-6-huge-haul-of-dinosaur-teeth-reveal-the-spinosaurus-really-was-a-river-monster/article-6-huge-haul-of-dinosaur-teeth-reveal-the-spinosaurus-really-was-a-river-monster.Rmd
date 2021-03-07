@@ -1,0 +1,92 @@
+---
+title: "Article 6 - \"Huge haul of dinosaur teeth reveal the Spinosaurus really was a river monster\""
+description: |
+  Hint that *Spinosaurus aegyptiacus* was a river-dwelling dinosaur
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 03-07-2021
+categories:
+  - "~All~"
+  - "Articles"
+  - "Dinosaurs"
+  - "English for Science"
+  - "Paleontology"
+preview: Images/Spinosaurus_Aegyptiacus.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](Images/Spinosaurus_Aegyptiacus.jpg)
+
+Artist vision of a Spinosaurus Aegyptiacus by ABelov2014 — [Deviantart](https://www.deviantart.com/abelov2014/art/Silence-At-Depth-var2-766995582), CC BY 3.0, [Wikipedia](https://commons.wikimedia.org/w/index.php?curid=73798999)
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+__Source of the article:__ [(CARLY CASSELLA, 2020)](https://www.sciencealert.com/huge-haul-of-dinosaur-teeth-show-the-spinosaurus-really-was-a-river-monster)
+
+__Word count:__ 711
+
+
+__Source of the study:__ [(Thomas Beevor *et al.*, 2021)](https://doi.org/10.1016/j.cretres.2020.104627) (updated)
+
+
+## II - VOCABULARY
+
+| English              | Definition / Synonym                | French                     |
+|----------------------|-------------------------------------|----------------------------|
+| bank                 | land at river's edge                | rive, berge                |
+| consistent (with sth)| fitting a diagnosis or explanation  | cohérent, concordant       |
+| deposit              | accumulation of mineral, ore, etc.  | gisement, dépôt            |
+| dry                  | not wet                             | sec                        |
+| fin                  | webbed part of an aquatic animal    | nageoire                   |
+| (to) flow            | move as a liquid                    | couler, s'écouler          |
+| (to) gather          | collect                             | ramasser, rassembler       |
+| haul                 | catch                               | butin, prise               |
+| hind (limbs)         | animal: rear                        | (membres) arrières         |
+| perhaps              | possibly                            | peut-être                  |
+| sheer                | utter, pure                         | pur                        |
+| solely               | completely, entirely	               | complètement, entièrement  |
+| tail                 | animal: end part                    | queue                      |
+| topsy-turvy          | (informal:) upside down             | sens dessus dessous        |
+| unsinkable           | not capable of being sunk           | incoulable, insubmersible  |
+| (to) wade            | (to) walk through water             | patauger, traverser        |
+
+*Note: these translations were mainly possible thanks to Wordreference*
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+
+* **Researchers?**
+    + Thomas Beevor
+    + Aaron Quigley
+    + Roy E. Smith
+    + Robert S.H. Smyth
+    + Nizar Ibrahim
+    + Samir Zouhri
+    + David M. Martill
+
+
+* **Published in?**
+    + January 2021
+
+
+* **General topic**
+    + The discovery of fossilized *Spinosaurus aegyptiacus* teeth in the fluvial Kem Kem group strata (Morocco) allows further speculations on its lifestyle
+
+* **Procedure/what was examined**
+    + Fossils of diverse prehistoric animals found in the fluvial Kem Kem group strata
+        - around 45% of the dental remains (more than 300) are from *Spinosaurus* species, depending on the site
+        - It represents between 16.4% and 32.3% of the total vertebrate fossils from the sites, depending on the site
+    + Comparison with modern-day crocodilians
+
+* **Conclusions/discovery**
+
+    + Large theropods had probably a constant and relatively fast tooth replacement
+    + It is highly probable that *Spinosaurus sp.* lived in river or at least along its banks
+
+* **Remaining questions**
+    + None

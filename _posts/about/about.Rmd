@@ -6,7 +6,7 @@ author:
   - name: "Nicolas Neels" 
 date: 10-10-2020
 categories:
-  - "*All*"
+  - "~All~"
 output: distill::distill_article
 ---
 
