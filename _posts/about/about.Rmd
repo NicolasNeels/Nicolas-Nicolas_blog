@@ -11,10 +11,10 @@ output: distill::distill_article
 ---
 
 
-**Who am I?**
+**Who am I?**  
 My name is Nicolas Neels. I am currently studying biology at the UMons university.
 
-**Why did I make a blog?**
+**Why did I make a blog?**  
 This blog in a long-term project that will be evaluated by M. Grosjean, M Conotte or M. Engels, which are my teachers for the Data Science course, a second year course.
 
 It also will be used for the English course, led by Mrs Van Lancker. I will post articles that will answear all the report criteria of that course.
