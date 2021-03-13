@@ -12,7 +12,6 @@ categories:
   - "Dinosaurs"
   - "English for Science"
   - "Paleontology"
-preview: Images/OviraptorOnNest.png
 output:
   distill::distill_article:
     self_contained: false
@@ -21,8 +20,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](Images/OviraptorOnNest.png)
-Artist impression of an Oviraptorid guarding its nest, by &lt;a href=&quot;//commons.wikimedia.org/wiki/User:Conty&quot; title=&quot;User:Conty&quot;&gt;Conty&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=6556432">Link</a>
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 __Source of the article:__ [(CARLY CASSELLA, 2021)](https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside)
