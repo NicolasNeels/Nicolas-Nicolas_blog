@@ -1,0 +1,24 @@
+---
+title: "Conclusion"
+description: |
+  A short description of the post.
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 03-14-2021
+categories:
+  - "~All~"
+  - "Conclusion"
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Making this portfolio truly was an interesting experience. Indeed, it is the first time I have to read and analyse scientific studies (which are the source of the analysed articles). It was a lot of work and I am sure it will be useful since it allowed me to learn the way scientific studies are led and reported. Moreover, I liked it a lot since it allowed me to discover a lot of things I was not even suspecting. I mean, who would have thought that baby Titanosaurs had nose horns? Or that dinosaurs, who lived more than a hundred million years from us, could develop a form of cancer that is still affecting us today? I honestly was amazed by what I discovered, but that’s not all: the fact that we had to put it on a blog makes me proud of it. We had to program and customize our whole blog and I firmly believe that it is a good thing because I like programming and it made us more familiar with the R language
+
+**Word count**: 177

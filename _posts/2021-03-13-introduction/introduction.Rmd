@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+description: |
+  The introduction of the portfolio
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 03-14-2021
+categories:
+  - "~All~"
+  - "Introduction"
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+For a lot of people, dinosaurs are a source of dreams and inspiration. They have been captivating me since my childhood and I want to share my passion to other people. This is the reason why I chose them as my topic. It is a vast subject since dinosaurs have ruled the earth for more than 160 million years. But, when we truly love a subject, there is never too much information to share. However, since I only had to analyse seven articles, I tried to find the most interesting ones I could find. And I was not displeased with what I found! By reading my articles, you will learn about weird dinosaurs that looked like modern-day bats and could fly like them, baby dinosaurs that looked completely different from their parents, diseases that struck dinosaurs and are still affecting us, the way some dinosaurs migrated to new continents, the reason why dinosaurs were either gigantic or very small, the lifestyle of Spinosaurus -which is completely different from what we previously thought!- and how dinosaurs guarded their nests. I sincerely hope that you will enjoy what you are about to read and that I managed to share with you the passion these wonderful creatures have always been inspiring me
+
+**Word count**: 209

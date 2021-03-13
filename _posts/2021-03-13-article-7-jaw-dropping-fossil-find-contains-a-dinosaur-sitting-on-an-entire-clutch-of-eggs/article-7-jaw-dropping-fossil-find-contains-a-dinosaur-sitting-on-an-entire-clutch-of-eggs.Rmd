@@ -1,7 +1,7 @@
 ---
 title: "Article 7 - \"Jaw-dropping fossil find contains a dinosaur sitting on an entire clutch of eggs\""
 description: |
-  Clues on how oviraptors tended to their nests
+  Clues on how Oviraptors tended to their nests
 author:
   - name: Nicolas Neels
     url: {}
