@@ -30,7 +30,7 @@ __Source of the article:__ [(Michael Marshall, 2020)](https://www.newscientist.c
 __Word count:__ 406
 
 
-__Source of the study:__ [(Martin Kundrát *et al.*, 2020)](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31150-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220311507%3Fshowall%3Dtrue)
+__Source of the study:__ [(Martin Kundrát *et al.*, 2020)](https://doi.org/10.1016/j.cub.2020.07.091)
 
 ## II - VOCABULARY
 

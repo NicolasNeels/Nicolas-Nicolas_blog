@@ -1,7 +1,7 @@
 ---
 title: "Article 3 - \"Malignant cancer diagnosed in a dinosaur for the first time\""
 description: |
-  Evidence of an advanced osteosarcoma in a Centrosaurus apertus
+  Evidence of an advanced osteosarcoma in a *Centrosaurus apertus*
 author:
   - name: Nicolas Neels
     url: {}
@@ -23,7 +23,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/Centrosaurus.jpg)
-Artist vision of a Centrosaurus, by Nobu Tamura (http://spinops.blogspot.com) — Personal work, CC BY 3.0  
+Artist vision of a Centrosaurus, by [Nobu Tamura](http://spinops.blogspot.com) — Personal work, CC BY 3.0  
 [Source](https://commons.wikimedia.org/w/index.php?curid=19459817)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:

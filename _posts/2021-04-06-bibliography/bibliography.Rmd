@@ -1,0 +1,75 @@
+---
+title: "Bibliography"
+description: |
+  The bibliography of the portfolio
+author:
+  - name: Nicolas Neels
+    url: {}
+date: 04-06-2021
+categories:
+  - "~All~"
+  - "Bibliography"
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Sources of article 1:  
+
+__Source of the article:__ Le Page, Michael. “The first flying dinosaurs were a failed evolutionary experiment“. NewScientist. October 22, 2020. <<https://www.newscientist.com/article/2257732-the-first-flying-dinosaurs-were-a-failed-evolutionary-experiment>>.  Consulted on October 24, 2020  
+
+__Source of the study:__ T. Alexander Dececchi *et al.* “Aerodynamics Show Membrane-Winged Theropods Were a Poor Gliding Dead-end”. iScience. October 22, 2020. <<https://doi.org/10.1016/j.isci.2020.101574>>. Consulted on October 24, 2020  
+
+__Source of the image:__ Willoughby, Emily. CC BY-SA 4.0, via Wikimedia Commons. November 25, 2014. <<https://commons.wikimedia.org/wiki/File:Yi_qi_restoration.jpg?uselang=fr>>. Consulted on October 24, 2020  
+
+# Sources of article 2:  
+
+__Source of the article:__ Marshall, Michael. “Best-preserved titanosaur embryo reveals they had nose horns as babies“. NewScientist. August 27, 2020. <<https://www.newscientist.com/article/2253205-best-preserved-titanosaur-embryo-reveals-they-had-nose-horns-as-babies>>.  Consulted on November 1, 2020  
+
+__Source of the study:__  Martin Kundrát *et al.* “Specialized Craniofacial Anatomy of a Titanosaurian Embryo from Argentina”. Cell. August 27, 2020. <<https://doi.org/10.1016/j.cub.2020.07.091>>. Consulted on November 1, 2020  
+
+__Source of the image:__ Hassan, Mohamet. Pixabay. <<https://pixabay.com/fr/vectors/silhouette-dinosaure-brachiosaurus-3464840>>. Consulted on November 1, 2020  
+
+# Sources of article 3:  
+
+__Source of the article:__ Royal Ontario Museum. "Malignant cancer diagnosed in a dinosaur for the first time." ScienceDaily.  3 August 2020 <<https://www.sciencedaily.com/releases/2020/08/200803184149.htm>>.  Consulted on December 5, 2020  
+
+__Source of the study:__  Seper Ekhtiari *et al.* “First case of osteosarcoma in a dinosaur: a multimodal diagnosis”. ScienceDirect. August 2020. <<https://www.sciencedirect.com/science/article/pii/S1470204520301716>>. Consulted on December 5, 2020  
+
+__Source of the image:__ Tamura, Nobu. CC BY 3.0, via Wikimedia Commons. January 12, 2008. <<https://commons.wikimedia.org/w/index.php?curid=19459817>>. Consulted on December 5, 2020  
+
+
+# Sources of article 4:  
+
+__Source of the article:__ Mcrae, Mike. “The Fossil of a Duckbill Dinosaur Has Been Found on The 'Wrong' Continent“. ScienceAlert. November 6, 2020. <<https://www.sciencealert.com/pony-sized-duckbill-dinosaur-fossil-found-in-the-last-place-anybody-would-suspect>>.  Consulted on December 9, 2020  
+
+__Source of the study:__  Nicholas R.Longrich *et al.* “The first duckbill dinosaur (Hadrosauridae: Lambeosaurinae) from Africa and the role of oceanic dispersal in dinosaur biogeography”. ScienceDirect. 2020. <<https://doi.org/10.1016/j.cretres.2020.104678>>. Consulted on December 9, 2020  
+
+# Sources of article 5:  
+
+__Source of the article:__ Ahmed, Issam. “We Finally Know Why Dinosaurs Were Either Humongous or Tiny, Unlike Modern Animals“. ScienceAlert. February 25, 2021. <<https://www.sciencealert.com/teenage-t-rex-edged-out-smaller-dinosaur-species-says-study>>.  Consulted on March 6, 2021  
+
+__Source of the study:__  Katlin Schroeder *et al.* “The influence of juvenile dinosaurs on community structure and diversity”. Science.ScienceMag.org. February, 2021. <<https://science.sciencemag.org/content/371/6532/941>>. Consulted on March 6, 2021  
+
+__Source of the image:__ Krauze, Willgard. Pixabay. <<https://pixabay.com/illustrations/dinosaurs-t-rex-pterodactyl-5687815>>. Consulted on March 6, 2021  
+
+
+# Sources of article 6:  
+
+__Source of the article:__ Cassela, Carly. “Huge Haul of Dinosaur Teeth Reveal The Spinosaurus Really Was a River Monster“. ScienceAlert. September 26, 2020. <<https://www.sciencealert.com/huge-haul-of-dinosaur-teeth-show-the-spinosaurus-really-was-a-river-monster>>.  Consulted on March 7, 2021  
+
+__Source of the study:__  Thomas Beevor *et al.* “Taphonomic evidence supports an aquatic lifestyle for Spinosaurus”. ScienceDirect. 2020. <<https://doi.org/10.1016/j.cretres.2020.104627>>. Consulted on March 7, 2021  
+
+__Source of the image:__ ABelov2014. CC BY 3.0, via Wikimedia Commons. October 22, 2018 <<https://commons.wikimedia.org/w/index.php?curid=73798999>>. Consulted on March 7, 2021  
+
+# Sources of article 7:  
+
+__Source of the article:__ Cassela, Carly. “Jaw-Dropping Fossil Find Contains a Dinosaur Sitting on an Entire Clutch of Eggs“. ScienceAlert. March 10, 2021. <<https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside>>.  Consulted on March 13, 2021  
+
+__Source of the study:__  Shundong Bi *et al.* “An oviraptorid preserved atop an embryo-bearing egg clutch sheds light on the reproductive biology of non-avialan theropod dinosaurs”. ScienceDirect. 2020. <<https://doi.org/10.1016/j.scib.2020.12.018>>. Consulted on March 13, 2021  
+
