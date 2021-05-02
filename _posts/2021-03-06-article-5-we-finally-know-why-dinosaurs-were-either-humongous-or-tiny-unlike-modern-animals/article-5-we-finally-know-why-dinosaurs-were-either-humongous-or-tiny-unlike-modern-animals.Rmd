@@ -43,7 +43,7 @@ __Source of the study:__ [(Katlin Schroeder *et al.*, 2021)](https://science.sci
 | hatchling            | baby bird (here: baby dinosaur)     | oisillon                   |
 | juvenile             | young                               | jeune                      |
 | longstanding         | well-established, long-term         | de longue date             |
-| Offspring            | young of an animal                  | progéniture                |
+| offspring            | young of an animal                  | progéniture                |
 | otherwise            | or else                             | sinon, autrement, sans quoi|
 | (to) outcompete      | (to) be more successful than        | surpasser, supplanter      |
 | (to) prey (on sth)   | (to) hunt as food                   | chasser une proie          |
