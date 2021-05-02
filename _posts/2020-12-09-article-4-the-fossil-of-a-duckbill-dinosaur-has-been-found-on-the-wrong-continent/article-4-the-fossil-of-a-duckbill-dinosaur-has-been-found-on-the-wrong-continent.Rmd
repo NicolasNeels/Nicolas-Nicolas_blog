@@ -34,7 +34,6 @@ __Source of the study:__ [(Nicholas R.Longrich *et al.*, 2020)](https://doi.org/
 
 | English              | Definition / Synonym                | French                     |
 |----------------------|-------------------------------------|----------------------------|
-| amount               | quantity                            | quantité                   |
 | assemblage           | collection                          | collection                 |
 | browser              | animal that eats vegetation         | qui se nourrit en paissant |
 | crested              | with tuft of feathers               | huppé                      |
